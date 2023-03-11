@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **JavaScript, React, Tailwind, CSS, Html ,C++, C**
+- 💬 Ask me about **JavaScript, React, Tailwind, CSS, Html, C++, C**
 
 - 📫 How to reach me **milanparmar.me@gmail.com**
 
