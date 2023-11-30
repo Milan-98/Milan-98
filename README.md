@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Challenging Projects**
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node**
 
 - 💬 Ask me about **JavaScript, React, Tailwind, CSS, Html, C++, C**
 
