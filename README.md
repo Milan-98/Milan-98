@@ -6,9 +6,9 @@
 - 🔭 I’m currently working on **Challenging Projects**
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **JavaScript, React, Tailwind, CSS, Html, C++, C**
+- 💬 Ask me Anything about **Frontend**
 
 - 📫 How to reach me **milanparmar.me@gmail.com**
 
