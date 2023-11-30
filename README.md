@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [milanparmar.site](milanparmar.site)
+- 👨‍💻 All of my projects are available at [milanparmar.site](https://www.milanparmar.site)
 
-- 📝 I regularly write articles on [obiikriationz.com](obiikriationz.com)
+- 📝 I regularly write articles on [obiikriationz.com](https://www.obiikriationz.com)
 
 - 💬 Ask me about **AnyThing in Frontend**
 
