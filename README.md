@@ -1,53 +1,47 @@
 # Hey, I'm Milan 👋
 
-I build things from scratch, figure out how they work, and write down what I learn along the way.
+I'm a **freelance full-stack developer** who builds and ships digital products.
 
-I'm a frontend engineer who enjoys turning ideas into products — from the first prototype to something people actually use. Alongside building, I write about software, systems, and the lessons that come from shipping real projects.
+I work with startups, businesses, and teams to turn ideas into production-ready websites, SaaS products, AI-powered applications, and mobile apps — from the first idea and interface to backend, integrations, deployment, and everything in between.
 
-## What I work with
+## 🛠️ What I work with
 
-Mostly:
+**Frontend**
+React · Next.js · TypeScript · Tailwind CSS
 
-* React
-* Next.js
-* TypeScript
-* Tailwind CSS
-* Convex
+**Backend & Data**
+Node.js · APIs · Databases · Convex
 
-I'm always interested in understanding the tools behind the product, not just using them.
+**Products & Infrastructure**
+AI · SaaS · Payments · Integrations · Cloud Infrastructure · Performance
 
-## Things I've built
+## 🚀 Things I've built
 
-### Delightloop
+**DelightLoop**
+AI-powered GTM platform for campaigns, personalization, and gifting.
 
-Founding Engineer at an AI-powered gifting platform. Worked on taking the product from idea to production.
+**The Chat Company**
+AI chatbot SaaS with RAG, an embeddable widget, and one-line integration.
 
-### The Chat Company
+**CalloutX**
+Social challenge platform with wallets, realtime systems, and payouts.
 
-An AI chatbot builder designed to help businesses create and deploy chatbots.
+**Authentic Urban**
+Production e-commerce platform serving 30K+ monthly visitors.
 
-### CalloutX
+And many more across SaaS, e-commerce, business websites, internal tools, mobile apps, and AI products.
 
-A paid social challenge platform built around creators, participation, and rewards.
+## ✍️ I also write
 
-### Authentic Urban
+I write about **software, products, web development, and the things I learn while building and shipping real projects.**
 
-A direct-to-consumer platform serving 10K+ monthly users, where I work across the product and engineering side.
+→ **Portfolio & Writing:** https://milanparmar.com
 
-## What I'm interested in
+## 📫 Get in touch
 
-* Building useful products
-* Frontend architecture
-* Developer tools
-* AI-powered software
-* Learning by shipping
-
-## Around the web
-
-* Portfolio: https://www.milanparmar.com/
-* LinkedIn: linkedin.com/in/milan-parmar-
-* Email: [milanparmar.me@gmail.com](mailto:milanparmar.me@gmail.com)
+**Email:** [milanparmar.me@gmail.com](mailto:milanparmar.me@gmail.com)
+**LinkedIn:** https://linkedin.com/in/milan-parmar-
 
 ---
 
-I'm currently focused on building, writing, and sharing the systems and lessons behind the projects I work on.
+**Design. Build. Ship.**
